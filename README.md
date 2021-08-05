@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arabdul1011
+- 👋 Hi, I’m Abdul Rasheed
 - 👀 I’m interested in Web Developmentr Wordpress and React Js
 - 🌱 I’m currently learning React Js 
 - 💞️ I’m looking to collaborate on ...
