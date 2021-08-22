@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("money-2724241_1280.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.headertext {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.headertext > h1 {
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 15px;
+  color: ghostwhite;
+  line-height: 1.1;
+}
+.headertext > p {
+  color: lightyellow;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+.button {
+  background-color: deepskyblue;
+  border-radius: 25px;
+  padding: 12px 28px;
+  border: none;
+  outline-width: 0;
+  cursor: pointer;
+  font-weight: 600;
+  color: snow;
+  transition-duration: 0.5s;
+}
+.button:hover {
+  background-color: blue;
+}
+.headerimg > img {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  width: 600px;
+  border-radius: 70%;
+}
